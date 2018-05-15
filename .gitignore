@@ -23,6 +23,7 @@ mkmf.log
 
 .ruby-version
 bin/
-node_modules/
 spec/examples.txt
 results/
+
+*.un~
